@@ -1,50 +1,76 @@
-Miguel Ángel Ortiz Escobar
-<div align="center"> 👨‍💻 **Desarrollador Web y Practicante en la Nube (AWS & Azure)** 🚀 **Frontend & Backend Developer desde 2020** 🌎 **Colombiano 🇨🇴** </div>
-📋 Sobre mí
-Soy un desarrollador apasionado con experiencia en el diseño y desarrollo de páginas web, interfaces de usuario y soluciones basadas en la nube. Mi enfoque combina habilidades técnicas avanzadas con creatividad e innovación para entregar proyectos de alta calidad. Actualmente, desarrollo habilidades en AWS, Azure y DevOps, mientras profundizo en el diseño y análisis de software.
+# Miguel Ángel Ortiz Escobar  
 
-💻 Habilidades principales:
+<div align="center">
+👨‍💻 **Desarrollador Web y Practicante en la Nube (AWS & Azure)**  
+🚀 **Frontend & Backend Developer desde 2020**  
+🌎 **Colombiano 🇨🇴**  
+</div>  
 
-Diseño web creativo e innovador
-Gestión y mantenimiento de servidores Linux
-Desarrollo frontend y backend con metodologías ágiles (Scrum)
-Implementación de servicios en la nube para almacenamiento, redes y bases de datos
-⚡ Intereses personales:
-Soy organizado, proactivo, y disfruto trabajar en equipo. Siempre estoy en busca de nuevos retos y oportunidades de aprendizaje.
+---
 
-🎓 Educación
-Ingeniería de Software – Universidad Surcolombiana (USCO), 2022 - Actualmente
-Técnico en Análisis y Desarrollo de Software – SENA, Bogotá, 2022 - Actualmente
-AWS Cloud Practitioner – AWS Re/Start, Amazon Web Services (AWS), 2022
-Desarrollo Web (Frontend & Backend) – Misión TIC, Bogotá, 2020-2021
-🔧 Habilidades Técnicas
-Frontend
-HTML5, CSS3, Bootstrap
-JavaScript (vanilla, frameworks)
-Diseño web con Dreamweaver y CMS como WordPress
-Backend
-Node.js, PHP, Python
-Bases de datos: MySQL
-Administración de servidores Linux (Ubuntu, CentOS)
-Shell scripting y automatización
-Cloud y DevOps
-Servicios en la nube: AWS (EC2, S3, RDS, IAM) y Azure
-Infraestructura como código con AWS CloudFormation
-Contenedores y DevOps básicos
-🚀 Proyectos y Experiencia
-Desarrollador Web Voluntario
-Voluntariado en Ambientes Sostenibles, Cali, 2021
-Diseño de páginas web y estrategias de marketing digital
-Mantenimiento y Seguridad en Redes
-Servicios de Internet, 2021-2022
-Gestión de servidores y análisis de seguridad
-Proyectos Personales
-Desarrollo de aplicaciones web interactivas con Node.js y PHP
-Implementación de servicios en AWS para computo, redes y almacenamiento
-📚 Certificaciones y Cursos
-AWS Cloud Practitioner
-Azure Fundamentals (AZ-900)
-Cursos especializados en desarrollo web, programación básica, y mantenimiento de equipos
+## 📋 Sobre mí  
+Soy un desarrollador apasionado con experiencia en el diseño y desarrollo de páginas web, interfaces de usuario y soluciones basadas en la nube. Mi enfoque combina habilidades técnicas avanzadas con creatividad e innovación para entregar proyectos de alta calidad. Actualmente, desarrollo habilidades en **AWS**, **Azure** y **DevOps**, mientras profundizo en el diseño y análisis de software.  
+
+### 💻 Habilidades principales:  
+- Diseño web creativo e innovador  
+- Gestión y mantenimiento de servidores Linux  
+- Desarrollo frontend y backend con metodologías ágiles (Scrum)  
+- Implementación de servicios en la nube para almacenamiento, redes y bases de datos  
+
+### ⚡ Intereses personales:  
+Soy organizado, proactivo, y disfruto trabajar en equipo. Siempre estoy en busca de nuevos retos y oportunidades de aprendizaje.  
+
+---
+
+## 🎓 Educación  
+- **Ingeniería de Software** – Universidad Surcolombiana (USCO), 2022 - Actualmente  
+- **Técnico en Análisis y Desarrollo de Software** – SENA, Bogotá, 2022 - Actualmente  
+- **AWS Cloud Practitioner** – AWS Re/Start, Amazon Web Services (AWS), 2022  
+- **Desarrollo Web (Frontend & Backend)** – Misión TIC, Bogotá, 2020-2021  
+
+---
+
+## 🔧 Habilidades Técnicas  
+
+### **Frontend**  
+- HTML5, CSS3, Bootstrap  
+- JavaScript (vanilla, frameworks)  
+- Diseño web con **Dreamweaver** y CMS como **WordPress**  
+
+### **Backend**  
+- Node.js, PHP, Python  
+- Bases de datos: MySQL  
+- Administración de servidores Linux (Ubuntu, CentOS)  
+- Shell scripting y automatización  
+
+### **Cloud y DevOps**  
+- Servicios en la nube: **AWS** (EC2, S3, RDS, IAM) y **Azure**  
+- Infraestructura como código con **AWS CloudFormation**  
+- Contenedores y DevOps básicos  
+
+---
+
+## 🚀 Proyectos y Experiencia  
+
+### **Desarrollador Web Voluntario**  
+- **Voluntariado en Ambientes Sostenibles, Cali, 2021**  
+  - Diseño de páginas web y estrategias de marketing digital  
+
+### **Mantenimiento y Seguridad en Redes**  
+- **Servicios de Internet, 2021-2022**  
+  - Gestión de servidores y análisis de seguridad  
+
+### **Proyectos Personales**  
+- Desarrollo de aplicaciones web interactivas con **Node.js** y **PHP**  
+- Implementación de servicios en **AWS** para cómputo, redes y almacenamiento  
+
+---
+
+## 📚 Certificaciones y Cursos  
+- **AWS Cloud Practitioner**  
+- **Azure Fundamentals (AZ-900)**  
+- Cursos especializados en desarrollo web, programación básica, y mantenimiento de equipos  
+
 
 
 <br/>  

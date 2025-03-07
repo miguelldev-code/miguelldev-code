@@ -133,7 +133,10 @@ Soy un desarrollador apasionado con experiencia en el dise√±o y desarrollo de p√
   <a href="https://github.com/miguelldev-code" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://x.com/miguel_ortiz_13" target="_blank">
+  <a href="https://www.tiktok.com/@miguelldev" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=tiktok&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://x.com/miguelldev_" target="_blank">
   <img src=https://img.shields.io/badge/X-black.svg?&style=for-the-badge&logo=X&logoColor=white alt=x style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/miguel-ortiz13" target="_blank">

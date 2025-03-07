@@ -110,14 +110,14 @@ Soy un desarrollador apasionado con experiencia en el diseño y desarrollo de p�
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MiguelOrtiz11&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=false" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=miguelldev-code&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=false" />
   <br></br>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelOrtiz11&theme=shades-of-purple&hide_border=true" /> 
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=miguelldev-code&theme=shades-of-purple&hide_border=true" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelOrtiz11&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelldev-code&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
   
   </td>
 </tr>
@@ -130,7 +130,7 @@ Soy un desarrollador apasionado con experiencia en el diseño y desarrollo de p�
 
 ##  ☁️ Conecta conmigo
  <div align="center">
-  <a href="https://github.com/MiguelOrtiz11" target="_blank">
+  <a href="https://github.com/miguelldev-code" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://x.com/miguel_ortiz_13" target="_blank">

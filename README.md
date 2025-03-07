@@ -83,7 +83,11 @@ Soy un desarrollador apasionado con experiencia en el diseño y desarrollo de p�
 
 ### **Implementacion de servicios web**  
 - Desarrollo de aplicaciones web interactivas con **Java** y **SpringBoot**  
-- Implementación de servicios en **AWS** para cómputo, redes y almacenamiento  
+- Implementación de servicios en **AWS** para cómputo, redes y almacenamiento
+
+### **Monitor Universitario**  
+- **Logica de programacion con Python**  
+  - Aprendizaje de logica de programacion dirigidos a estudiantes de la universidad
 
 
 ---

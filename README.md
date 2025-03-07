@@ -130,21 +130,22 @@ Soy un desarrollador apasionado con experiencia en el diseño y desarrollo de p�
 
 ##  ☁️ Conecta conmigo
  <div align="center">
+  <a href="https://youtube.com/@miguelldev" target="_blank">
+  <img src=https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+  </a>
   <a href="https://github.com/miguelldev-code" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.tiktok.com/@miguelldev" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=tiktok&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://x.com/miguelldev_" target="_blank">
-  <img src=https://img.shields.io/badge/X-black.svg?&style=for-the-badge&logo=X&logoColor=white alt=x style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/tiktok-%2324292e.svg?&style=for-the-badge&logo=tiktok&logoColor=white alt=tiktok style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/miguel-ortiz13" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="https://youtube.com/@miguelldev" target="_blank">
-  <img src=https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+  <a href="https://x.com/miguelldev_" target="_blank">
+  <img src=https://img.shields.io/badge/X-black.svg?&style=for-the-badge&logo=X&logoColor=white alt=x style="margin-bottom: 5px;" />
   </a>
+  
   </div>  
 
   
